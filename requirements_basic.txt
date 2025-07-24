@@ -1,0 +1,34 @@
+
+# Core dependencies
+streamlit>=1.28.0
+yfinance>=0.2.22
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# NLP and Sentiment Analysis
+nltk>=3.8.1
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+
+# Data handling (install pandas separately if needed)
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# API clients
+tweepy>=4.14.0
+praw>=7.7.1
+newsapi-python>=0.2.7
+
+# Optional advanced NLP (install if transformers needed)
+# transformers>=4.34.1
+# torch>=2.0.1
+
+# Development
+jupyter>=1.0.0

@@ -1,0 +1,27 @@
+
+# Core dependencies
+streamlit==1.28.1
+pandas==2.1.1
+numpy==1.24.3
+yfinance==0.2.22
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# NLP and Sentiment Analysis (lightweight versions)
+nltk==3.8.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# Visualization (lightweight)
+plotly==5.17.0
+
+# Environment
+python-dotenv==1.0.0
+
+# API clients (optional - app works without these)
+tweepy==4.14.0
+praw==7.7.1
+newsapi-python==0.2.7
+
+# Date handling
+python-dateutil==2.8.2
